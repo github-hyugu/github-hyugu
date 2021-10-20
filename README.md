@@ -1,5 +1,5 @@
 ### Hi there, I'm [Dev-Owl32](https://github.com/Dev-Owl32). 👋
-### An ordinary high school student, not a real developer
+### I am an ordinary high school student who develops as a hobby, not a profession.
 
 <p>&nbsp</p>
 <p>&nbsp</p>
