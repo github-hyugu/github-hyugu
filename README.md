@@ -1,15 +1,10 @@
-My github profiles.
-===================
-
 ### Hi there, I'm [Dev-Owl32](https://github.com/Dev-Owl32). 👋
 
 <p>&nbsp</p>
 <p>&nbsp</p>
 
-**Stats:**
+## 📊 GitHub Stats
 
-<div align="left"></div>
-![madplay's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Owl32&show_icons=true&include_all_commits=true&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Owl32&show_icons=true&theme=cobalt&icon_color=c36be3&hide_border=none&text_color=33c6d4)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=f_owl32)](https://solved.ac/profile/f_owl32)
