@@ -12,4 +12,4 @@ My github profiles.
 ![madplay's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Owl32&show_icons=true&include_all_commits=true&theme=dracula)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/profile/f_owl32)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=f_owl32)](https://solved.ac/profile/f_owl32)
