@@ -1,4 +1,4 @@
-### Hello my name is [Dev-Owl32](https://github.com/Dev-Owl32). 👋
+### Hi there, I'm [Dev-Owl32](https://github.com/Dev-Owl32). 👋
 
 <div align=center>
 
