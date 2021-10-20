@@ -5,11 +5,8 @@ My github profiles.
 
 <p>&nbsp</p>
 <p>&nbsp</p>
-<p>&nbsp</p>
-<p>&nbsp</p>
-<p>&nbsp</p>
 
-
+## GitHub Stats
 ![madplay's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Owl32&show_icons=true&include_all_commits=true&theme=dracula)
 
 [![Solved.ac
