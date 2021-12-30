@@ -5,7 +5,8 @@
 <p>&nbsp</p>
 
 ## 주로 사용하는 언어
-<li> HTML 5
+<li> HTML 5 </li>
+<li> JavaScript </li>
 
 
 ## 📊 GitHub Stats
