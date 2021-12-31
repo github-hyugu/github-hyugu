@@ -1,5 +1,5 @@
-### Hi there, I'm [Han-Byul Choi](https://github.com/Dev-Owl32). 👋
-### I am an ordinary high school student who develops as a hobby, not a profession.
+### 안녕, [Han-Byul Choi](https://github.com/Dev-Owl32)임. 👋
+### 그리고 평범한 히키코모리 고등학생이기도 함
 
 <p>&nbsp</p>
 <p>&nbsp</p>
