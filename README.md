@@ -1,5 +1,5 @@
-### 안녕, [최한별(Dev_Owl)](https://github.com/Dev-Owl32)임. 👋
-### 그리고 평범한 히키코모리 고등학생이기도 함
+### 안녕하세요, [최한별(Dev_Owl)](https://github.com/Dev-Owl32)입니다. 👋
+### 그리고 평범한 히키코모리 고등학생이기도 합니다.
 
 <p>&nbsp</p>
 <p>&nbsp</p>
